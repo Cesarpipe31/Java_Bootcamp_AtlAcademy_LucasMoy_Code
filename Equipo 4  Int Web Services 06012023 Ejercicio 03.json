@@ -1,0 +1,22 @@
+{
+  "preguntas": [
+    {
+      "enunciado": "¿Cuál es la capital de Francia?",
+      "opciones": ["Roma", "París", "Londres", "Madrid"],
+      "respuesta_correcta": 1,
+      "explicacion": "La respuesta correcta es París, ya que es la capital de Francia. Roma es la capital de Italia, Londres es la capital del Reino Unido y Madrid es la capital de España."
+    },
+    {
+      "enunciado": "¿Cuál es el río más largo del mundo?",
+      "opciones": ["Nilo", "Amazonas", "Misisipi", "Yangtsé"],
+      "respuesta_correcta": 0,
+      "explicacion": "La respuesta correcta es el Nilo, ya que es el río más largo del mundo. El Amazonas es el río con mayor caudal, el Misisipi es uno de los ríos más largos de América del Norte y el Yangtsé es el río más largo de Asia."
+    },
+    {
+      "enunciado": "¿Cuál es la fórmula química del agua?",
+      "opciones": ["H2O2", "CO2", "H2SO4", "H2O"],
+      "respuesta_correcta": 3,
+      "explicacion": "La respuesta correcta es H2O, ya que esa es la fórmula química del agua. H2O2 es el peróxido de hidrógeno, CO2 es el dióxido de carbono y H2SO4 es el ácido sulfúrico."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Equipo": "Javasonicos Lucarianos",
+  "EquipoNumero": 4,
+  "CantidadMiembros": 14,
+  "MiembrosIntegrantes": [
+    {
+      "id": 0,
+      "nombre": "Absa",
+      "discord": "absa#2565"
+    },
+    {
+      "id": 1,
+      "nombre": "Andres",
+      "discord": "Adso#2673"
+    },
+    {
+      "id": 2,
+      "nombre": "Bernardo Brayan",
+      "discord": "Bernardo Brayan#4471"
+    },
+    {
+      "id": 3,
+      "nombre": "Betzabe",
+      "discord": "Betzabe#4843"
+    },
+    {
+      "id": 4,
+      "nombre": "Cesar Pipe",
+      "discord": "Cesarpipe31#8833"
+    },
+    {
+      "id": 5,
+      "nombre": "Jesus Quezada Nin",
+      "discord": "jesusnin#1444"
+    },
+    {
+      "id": 6,
+      "nombre": "Karina",
+      "discord": "kargir#2502"
+    },
+    {
+      "id": 7,
+      "nombre": "Lorena",
+      "discord": "Lorena77#1608"
+    },
+    {
+      "id": 8,
+      "nombre": "Matias Acevedo",
+      "discord": "Matias Nicolas Acevedo#5318"
+    },
+    {
+      "id": 9,
+      "nombre": "Nahuel Rocha",
+      "discord": "TURCO#6276"
+    },
+    {
+      "id": 10,
+      "nombre": "Rene",
+      "discord": "ROP#0306"
+    },
+    {
+      "id": 11,
+      "nombre": "Vale",
+      "discord": "LeiaGalleta#1119"
+    },
+    {
+      "id": 12,
+      "nombre": "Yara",
+      "discord": "Aless#9538"
+    },
+    {
+      "id": 13,
+      "nombre": "Yuliana Gaviria",
+      "discord": "YulianaG#4683"
+    }
+  ]
+}
