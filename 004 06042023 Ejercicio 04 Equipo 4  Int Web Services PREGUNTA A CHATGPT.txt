@@ -1,0 +1,7 @@
+Genera 10 preguntas de una temática aleatoria, en formato json donde se respete la siguiente estructura, sin comentarios solo el json
+{
+    "question": "",
+    "options": [],
+    "answer": "",
+    "explanation": ""
+}
