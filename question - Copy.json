@@ -1,0 +1,70 @@
+    {
+        "category": "Deportes",
+        "question": "¿Cuál país ganó la Copa Mundial de Fútbol de 2014?",
+        "options": ["Brasil", "Alemania", "España"],
+        "answer": 1,
+        "explanation": "Alemania ganó la Copa Mundial de Fútbol de 2014 al derrotar a Argentina en la final."
+      },
+      {
+        "category": "Deportes",
+        "question": "¿Cuál es el equipo más exitoso en la historia de la Liga de Campeones de la UEFA?",
+        "options": ["Real Madrid", "Bayern Munich", "Milan"],
+        "answer": 0,
+        "explanation": "Real Madrid es el equipo más exitoso en la historia de la Liga de Campeones de la UEFA, habiendo ganado el torneo en varias ocasiones."
+      },
+      {
+        "category": "Deportes",
+        "question": "¿Cuántas medallas de oro ganó Michael Phelps en los Juegos Olímpicos?",
+        "options": ["18", "20", "22"],
+        "answer": 2,
+        "explanation": "Michael Phelps ganó un total de 23 medallas de oro en los Juegos Olímpicos a lo largo de su carrera."
+      },
+      {
+        "category": "Deportes",
+        "question": "¿Cuál es el récord mundial de salto en alto en atletismo masculino?",
+        "options": ["2.35 metros", "2.40 metros", "2.45 metros", "2.50 metros"],
+        "answer": 2,
+        "explanation": "El récord mundial de salto en alto en atletismo masculino es de 2.45 metros, establecido por Javier Sotomayor de Cuba en 1993."
+      },
+      {
+        "category": "Deportes",
+        "question": "¿Cuál es el equipo más ganador en la historia de la NBA?",
+        "options": ["Boston Celtics", "Los Angeles Lakers", "Chicago Bulls", "Golden State Warriors"],
+        "answer": 0,
+        "explanation": "Los Boston Celtics son el equipo más ganador en la historia de la NBA, con un total de 17 campeonatos."
+      },
+      {
+        "category": "Deportes",
+        "question": "¿Quién es el máximo goleador en la historia de la Copa del Mundo de la FIFA?",
+        "options": ["Lionel Messi", "Cristiano Ronaldo", "Pelé", "Miroslav Klose"],
+        "answer": 3,
+        "explanation": "Miroslav Klose de Alemania es el máximo goleador en la historia de la Copa del Mundo de la FIFA, con un total de 16 goles anotados."
+      },
+      {
+        "category": "Deportes",
+        "question": "¿Cuál es el récord mundial en los 100 metros lisos en atletismo masculino?",
+        "options": ["9.58 segundos", "9.63 segundos", "9.69 segundos", "9.74 segundos"],
+        "answer": 0,
+        "explanation": "Usain Bolt de Jamaica ostenta el récord mundial en los 100 metros lisos en atletismo masculino, con un tiempo de 9.58 segundos."
+      },
+      {
+        "category": "Deportes",
+        "question": "¿Cuántos Grand Slam ha ganado Serena Williams en su carrera?",
+        "options": ["20", "23", "25", "27"],
+        "answer": 1,
+        "explanation": "Serena Williams ha ganado un total de 23 títulos de Grand Slam en su carrera como tenista profesional."
+      },
+      {
+        "category": "Deportes",
+        "question": "¿Cuál equipo ha ganado más títulos de la Serie Mundial en el béisbol de las Grandes Ligas?",
+        "options": ["New York Yankees", "Boston Red Sox", "Los Angeles Dodgers", "San Francisco Giants"],
+        "answer": 0,
+        "explanation": "Los New York Yankees son el equipo con más títulos de la Serie Mundial en la historia del béisbol de las Grandes Ligas, con un total de 27 campeonatos."
+      },
+      {
+        "category": "Deportes",
+        "question": "¿Cuál es el país más exitoso en la historia de los Juegos Olímpicos de Verano?",
+        "options": ["Estados Unidos", "China", "Rusia", "Reino Unido"],
+        "answer": 0,
+        "explanation": "Estados Unidos es el país más exitoso en la historia de los Juegos Olímpicos de Verano, habiendo ganado la mayor cantidad de medallas en general."
+      }
