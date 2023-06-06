@@ -1,6 +1,6 @@
 [
     {
-        "category": "Deportes",
+        "category": "Cultura",
         "question": "¿Cuál país ganó la Copa Mundial de Fútbol de 2014?",
         "options": ["Brasil", "Alemania", "Argentina", "España"],
         "answer": 1,
