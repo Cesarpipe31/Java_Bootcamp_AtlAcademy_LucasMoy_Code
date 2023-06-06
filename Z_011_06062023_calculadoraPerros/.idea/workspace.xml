@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3909559-30e7-4df7-b706-7b7b9d327c2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Z_013_06062023_clase005_calculadoraDescuento/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Z_013_06062023_clase005_calculadoraDescuento/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Z_013_06062023_clase005_calculadoraDescuento/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Z_013_06062023_clase005_calculadoraDescuento/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Qqc8zoDrSqt4Oc88YgCYxQdsml" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "D:/PC_CD/VID/Apr_Aut/SelfLearn/SL_054_Java_Bootcamp_AtlAcademy_LucasMoy/Java_Bootcamp_AtlAcademy_LucasMoy_Code/Z_011_06062023_calculadoraPerros/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Z_012_06062023_clase005_calculadoraPerros" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Z_012_06062023_clase005_calculadoraPerros" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3909559-30e7-4df7-b706-7b7b9d327c2b" name="Changes" comment="" />
+      <created>1686084406743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686084406743</updated>
+    </task>
+    <servers />
+  </component>
+</project>
