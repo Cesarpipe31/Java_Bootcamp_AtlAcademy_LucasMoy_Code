@@ -1,23 +1,722 @@
 [
- {
-        "category": "Deportes",
-        "question": "¿Cuál país ganó la Copa Mundial de Fútbol de 2014?",
-        "options": ["Brasil", "Alemania", "España"],
-        "answer": 1,
-        "explanation": "Alemania ganó la Copa Mundial de Fútbol de 2014 al derrotar a Argentina en la final."
-      },
-      {
-        "category": "Deportes",
-        "question": "¿Cuál es el equipo más exitoso en la historia de la Liga de Campeones de la UEFA?",
-        "options": ["Real Madrid", "Bayern Munich", "Milan"],
-        "answer": 0,
-        "explanation": "Real Madrid es el equipo más exitoso en la historia de la Liga de Campeones de la UEFA, habiendo ganado el torneo en varias ocasiones."
-      },
-      {
-        "category": "Deportes",
-        "question": "¿Cuántas medallas de oro ganó Michael Phelps en los Juegos Olímpicos?",
-        "options": ["18", "20", "22"],
-        "answer": 2,
-        "explanation": "Michael Phelps ganó un total de 23 medallas de oro en los Juegos Olímpicos a lo largo de su carrera."
-      }
+  {
+    "category": "Deportes",
+    "question": "¿Cuál es el deporte más popular en Estados Unidos?",
+    "options": [
+      "Fútbol americano",
+      "Béisbol",
+      "Baloncesto",
+      "Hockey sobre hielo"
+    ],
+    "answer": 0,
+    "explanation": "El deporte más popular en Estados Unidos es el fútbol americano."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿Qué equipo ganó la última Copa del Mundo de Fútbol?",
+    "options": [
+      "Alemania",
+      "Brasil",
+      "Francia",
+      "España"
+    ],
+    "answer": 2,
+    "explanation": "El último equipo en ganar la Copa del Mundo de Fútbol fue Francia."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿Cuál es el tenista con más títulos de Grand Slam en la historia?",
+    "options": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Pete Sampras"
+    ],
+    "answer": 2,
+    "explanation": "Novak Djokovic es el tenista con más títulos de Grand Slam en la historia."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2020 (postergados a 2021) debido a la pandemia?",
+    "options": [
+      "Tokio",
+      "Río de Janeiro",
+      "Londres",
+      "Pekín"
+    ],
+    "answer": 0,
+    "explanation": "Los Juegos Olímpicos de 2020 (postergados a 2021) se celebraron en Tokio."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿Cuál es el equipo más exitoso en la historia de la NBA?",
+    "options": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Golden State Warriors"
+    ],
+    "answer": 1,
+    "explanation": "El equipo más exitoso en la historia de la NBA es los Boston Celtics."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿Cuál es el máximo goleador en la historia del fútbol?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Pelé",
+      "Romário"
+    ],
+    "answer": 0,
+    "explanation": "El máximo goleador en la historia del fútbol es Lionel Messi."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿Cuál es el equipo más ganador en la historia de la Copa Libertadores?",
+    "options": [
+      "Boca Juniors",
+      "River Plate",
+      "Independiente",
+      "São Paulo"
+    ],
+    "answer": 0,
+    "explanation": "El equipo más ganador en la historia de la Copa Libertadores es Boca Juniors."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿Quién es considerado el mejor jugador de baloncesto de todos los tiempos?",
+    "options": [
+      "Michael Jordan",
+      "LeBron James",
+      "Kobe Bryant",
+      "Magic Johnson"
+    ],
+    "answer": 0,
+    "explanation": "Michael Jordan es considerado el mejor jugador de baloncesto de todos los tiempos."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿En qué año se celebró la primera edición de los Juegos Olímpicos modernos?",
+    "options": [
+      "1896",
+      "1900",
+      "1912",
+      "1924"
+    ],
+    "answer": 0,
+    "explanation": "La primera edición de los Juegos Olímpicos modernos se celebró en 1896."
+  },
+  {
+    "category": "Deportes",
+    "question": "¿Cuál es la carrera de automovilismo más famosa del mundo?",
+    "options": [
+      "Fórmula 1",
+      "24 Horas de Le Mans",
+      "Rally Dakar",
+      "Indianapolis 500"
+    ],
+    "answer": 0,
+    "explanation": "La carrera de automovilismo más famosa del mundo es la Fórmula 1."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿Quién escribió el libro 'Cien años de soledad'?",
+    "options": [
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Mario Vargas Llosa",
+      "Pablo Neruda"
+    ],
+    "answer": 0,
+    "explanation": "El libro 'Cien años de soledad' fue escrito por Gabriel García Márquez."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿Quién pintó la famosa obra 'La Gioconda'?",
+    "options": [
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Salvador Dalí"
+    ],
+    "answer": 0,
+    "explanation": "'La Gioconda' fue pintada por Leonardo da Vinci."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿Cuál es el instrumento musical más grande de la orquesta sinfónica?",
+    "options": [
+      "Violín",
+      "Piano",
+      "Contrabajo",
+      "Flauta"
+    ],
+    "answer": 2,
+    "explanation": "El instrumento más grande de la orquesta sinfónica es el contrabajo."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿En qué país se originó el tango?",
+    "options": [
+      "Argentina",
+      "Brasil",
+      "España",
+      "Italia"
+    ],
+    "answer": 0,
+    "explanation": "El tango se originó en Argentina."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿Quién escribió la obra de teatro 'Romeo y Julieta'?",
+    "options": [
+      "William Shakespeare",
+      "Federico García Lorca",
+      "Anton Chejov",
+      "Molière"
+    ],
+    "answer": 0,
+    "explanation": "La obra de teatro 'Romeo y Julieta' fue escrita por William Shakespeare."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿Quién compuso la sinfonía 'La Novena'?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
+    ],
+    "answer": 0,
+    "explanation": "La sinfonía 'La Novena' fue compuesta por Ludwig van Beethoven."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿Quién es el autor del cuadro 'La noche estrellada'?",
+    "options": [
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Salvador Dalí",
+      "Claude Monet"
+    ],
+    "answer": 1,
+    "explanation": "'La noche estrellada' fue pintada por Vincent van Gogh."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿Cuál es la obra literaria más conocida de Miguel de Cervantes Saavedra?",
+    "options": [
+      "Don Quijote de la Mancha",
+      "Cien años de soledad",
+      "Ulises",
+      "La Odisea"
+    ],
+    "answer": 0,
+    "explanation": "La obra literaria más conocida de Miguel de Cervantes Saavedra es 'Don Quijote de la Mancha'."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿Qué famoso ballet fue compuesto por Piotr Ilich Tchaikovsky?",
+    "options": [
+      "El lago de los cisnes",
+      "El cascanueces",
+      "La bella durmiente",
+      "Giselle"
+    ],
+    "answer": 1,
+    "explanation": "El famoso ballet compuesto por Piotr Ilich Tchaikovsky es 'El cascanueces'."
+  },
+  {
+    "category": "Cultura",
+    "question": "¿Quién escribió la novela '1984'?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Jorge Luis Borges"
+    ],
+    "answer": 0,
+    "explanation": "La novela '1984' fue escrita por George Orwell."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Quién pintó La Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "answer": 0,
+    "explanation": "La Mona Lisa fue pintada por Leonardo da Vinci."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Qué artista es conocido por su obra 'La noche estrellada'?",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Vincent van Gogh",
+      "Michelangelo"
+    ],
+    "answer": 2,
+    "explanation": "La obra 'La noche estrellada' es de Vincent van Gogh."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Quién diseñó la Torre Eiffel?",
+    "options": [
+      "Gustave Eiffel",
+      "Antoni Gaudí",
+      "Frank Gehry",
+      "Ieoh Ming Pei"
+    ],
+    "answer": 0,
+    "explanation": "La Torre Eiffel fue diseñada por Gustave Eiffel."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Cuál es una de las principales características del estilo barroco en la arquitectura?",
+    "options": [
+      "Simplicidad y líneas rectas",
+      "Grandiosidad y ornamentación excesiva",
+      "Minimalismo y funcionalidad",
+      "Asimetría y geometría abstracta"
+    ],
+    "answer": 1,
+    "explanation": "Una de las principales características del estilo barroco es la grandiosidad y ornamentación excesiva."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Cuál es una famosa escultura del escultor italiano Michelangelo?",
+    "options": [
+      "La Venus de Milo",
+      "El Pensador",
+      "El David",
+      "La Piedad"
+    ],
+    "answer": 2,
+    "explanation": "El David es una famosa escultura de Michelangelo."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Quién es considerado el padre del cubismo?",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Claude Monet",
+      "Henri Matisse"
+    ],
+    "answer": 0,
+    "explanation": "Pablo Picasso es considerado el padre del cubismo."
+  },
+  {
+    "category": "Arte",
+    "question": "¿En qué ciudad se encuentra la Ópera de Sídney?",
+    "options": [
+      "Sídney",
+      "Melbourne",
+      "Brisbane",
+      "Adelaida"
+    ],
+    "answer": 0,
+    "explanation": "La Ópera de Sídney se encuentra en la ciudad de Sídney."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Cuál es el material más comúnmente utilizado en la escultura?",
+    "options": [
+      "Madera",
+      "Piedra",
+      "Bronce",
+      "Arcilla"
+    ],
+    "answer": 2,
+    "explanation": "El bronce es el material más comúnmente utilizado en la escultura."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Quién diseñó la Sagrada Familia en Barcelona?",
+    "options": [
+      "Antoni Gaudí",
+      "Frank Lloyd Wright",
+      "Zaha Hadid",
+      "Ieoh Ming Pei"
+    ],
+    "answer": 0,
+    "explanation": "La Sagrada Familia en Barcelona fue diseñada por Antoni Gaudí."
+  },
+  {
+    "category": "Arte",
+    "question": "¿Qué famoso artista neerlandés cortó una parte de su oreja?",
+    "options": [
+      "Vincent van Gogh",
+      "Rembrandt van Rijn",
+      "Johannes Vermeer",
+      "Hieronymus Bosch"
+    ],
+    "answer": 0,
+    "explanation": "Vincent van Gogh cortó una parte de su oreja."
+  },
+  {
+    "category": "Cine",
+    "question": "¿Quién dirigió la película 'Pulp Fiction'?",
+    "options": [
+      "Quentin Tarantino",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Christopher Nolan"
+    ],
+    "answer": 0,
+    "explanation": "La película 'Pulp Fiction' fue dirigida por Quentin Tarantino."
+  },
+  {
+    "category": "Cine",
+    "question": "¿Cuál de los siguientes actores interpretó el papel de Iron Man en el Universo Cinematográfico de Marvel?",
+    "options": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "answer": 0,
+    "explanation": "El actor que interpretó el papel de Iron Man fue Robert Downey Jr."
+  },
+  {
+    "category": "Cine",
+    "question": "¿En qué película famosa aparece el personaje Luke Skywalker?",
+    "options": [
+      "Star Wars: Episodio IV - Una nueva esperanza",
+      "Indiana Jones y el arca perdida",
+      "El Padrino",
+      "El señor de los anillos: La comunidad del anillo"
+    ],
+    "answer": 0,
+    "explanation": "El personaje Luke Skywalker aparece en la película 'Star Wars: Episodio IV - Una nueva esperanza'."
+  },
+  {
+    "category": "Cine",
+    "question": "¿Qué película ganó el Premio a la Mejor Película en los Premios de la Academia en 2020?",
+    "options": [
+      "Parasite",
+      "Joker",
+      "1917",
+      "Once Upon a Time in Hollywood"
+    ],
+    "answer": 0,
+    "explanation": "La película que ganó el Premio a la Mejor Película en los Premios de la Academia en 2020 fue 'Parasite'."
+  },
+  {
+    "category": "Cine",
+    "question": "¿Qué director es conocido por películas como 'Inception', 'The Dark Knight' y 'Interstellar'?",
+    "options": [
+      "Quentin Tarantino",
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "Martin Scorsese"
+    ],
+    "answer": 1,
+    "explanation": "El director conocido por películas como 'Inception', 'The Dark Knight' y 'Interstellar' es Christopher Nolan."
+  },
+  {
+    "category": "Cine",
+    "question": "¿Cuál es la película más taquillera de todos los tiempos?",
+    "options": [
+      "Avengers: Endgame",
+      "Avatar",
+      "Titanic",
+      "Star Wars: El despertar de la fuerza"
+    ],
+    "answer": 0,
+    "explanation": "La película más taquillera de todos los tiempos es 'Avengers: Endgame'."
+  },
+  {
+    "category": "Cine",
+    "question": "¿Quién interpretó a Hermione Granger en la serie de películas de 'Harry Potter'?",
+    "options": [
+      "Emma Watson",
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Tom Felton"
+    ],
+    "answer": 0,
+    "explanation": "El personaje de Hermione Granger fue interpretado por Emma Watson."
+  },
+  {
+    "category": "Cine",
+    "question": "¿Qué actor ganó el Premio de la Academia al Mejor Actor por su papel en la película 'El Renacido'?",
+    "options": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Joaquin Phoenix",
+      "Eddie Redmayne"
+    ],
+    "answer": 0,
+    "explanation": "El actor que ganó el Premio de la Academia al Mejor Actor por su papel en 'El Renacido' fue Leonardo DiCaprio."
+  },
+  {
+    "category": "Cine",
+    "question": "¿En qué película famosa aparece el personaje Darth Vader?",
+    "options": [
+      "Star Wars: Episodio IV - Una nueva esperanza",
+      "The Matrix",
+      "El Padrino",
+      "Blade Runner"
+    ],
+    "answer": 0,
+    "explanation": "El personaje Darth Vader aparece en la película 'Star Wars: Episodio IV - Una nueva esperanza'."
+  },
+  {
+    "category": "Cine",
+    "question": "¿Quién dirigió la trilogía cinematográfica 'El Señor de los Anillos'?",
+    "options": [
+      "Peter Jackson",
+      "James Cameron",
+      "Tim Burton",
+      "Steven Spielberg"
+    ],
+    "answer": 0,
+    "explanation": "La trilogía cinematográfica 'El Señor de los Anillos' fue dirigida por Peter Jackson."
+  },
+  {
+    "category": "Historia",
+    "question": "¿En qué año tuvo lugar la Revolución Francesa?",
+    "options": [
+      "1776",
+      "1789",
+      "1812",
+      "1848"
+    ],
+    "answer": 1,
+    "explanation": "La Revolución Francesa tuvo lugar en 1789."
+  },
+  {
+    "category": "Historia",
+    "question": "¿Cuál fue el líder de la Revolución Rusa en 1917?",
+    "options": [
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Mikhail Gorbachev"
+    ],
+    "answer": 0,
+    "explanation": "El líder de la Revolución Rusa en 1917 fue Vladimir Lenin."
+  },
+  {
+    "category": "Historia",
+    "question": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+    "options": [
+      "1776",
+      "1789",
+      "1812",
+      "1848"
+    ],
+    "answer": 0,
+    "explanation": "La Declaración de Independencia de los Estados Unidos se firmó en 1776."
+  },
+  {
+    "category": "Historia",
+    "question": "¿Quién fue el emperador romano conocido como 'El Grande'?",
+    "options": [
+      "Julio César",
+      "Augusto",
+      "Nerón",
+      "Trajano"
+    ],
+    "answer": 3,
+    "explanation": "El emperador romano conocido como 'El Grande' fue Trajano."
+  },
+  {
+    "category": "Historia",
+    "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+    "options": [
+      "1914",
+      "1939",
+      "1945",
+      "1950"
+    ],
+    "answer": 1,
+    "explanation": "La Segunda Guerra Mundial comenzó en 1939."
+  },
+  {
+    "category": "Historia",
+    "question": "¿Quién fue el primer presidente de los Estados Unidos?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams",
+      "Benjamin Franklin"
+    ],
+    "answer": 0,
+    "explanation": "El primer presidente de los Estados Unidos fue George Washington."
+  },
+  {
+    "category": "Historia",
+    "question": "¿En qué año se descubrió América por parte de Cristóbal Colón?",
+    "options": [
+      "1492",
+      "1501",
+      "1520",
+      "1543"
+    ],
+    "answer": 0,
+    "explanation": "América fue descubierta por Cristóbal Colón en 1492."
+  },
+  {
+    "category": "Historia",
+    "question": "¿Cuál fue la capital del Imperio Romano?",
+    "options": [
+      "Roma",
+      "Atenas",
+      "Cartago",
+      "Constantinopla"
+    ],
+    "answer": 0,
+    "explanation": "La capital del Imperio Romano fue Roma."
+  },
+  {
+    "category": "Historia",
+    "question": "¿Cuál fue la causa principal de la Revolución Industrial?",
+    "options": [
+      "Descubrimiento de América",
+      "Revolución Francesa",
+      "Invención de la máquina de vapor",
+      "Guerra Civil Americana"
+    ],
+    "answer": 2,
+    "explanation": "La invención de la máquina de vapor fue la causa principal de la Revolución Industrial."
+  },
+  {
+    "category": "Historia",
+    "question": "¿Quién fue el líder de los derechos civiles en Estados Unidos en la década de 1960?",
+    "options": [
+      "Martin Luther King Jr.",
+      "Malcolm X",
+      "Rosa Parks",
+      "Barack Obama"
+    ],
+    "answer": 0,
+    "explanation": "Martin Luther King Jr. fue el líder de los derechos civiles en Estados Unidos en la década de 1960."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Cuál es la fórmula química del agua?",
+    "options": [
+      "H2O",
+      "CO2",
+      "NaCl",
+      "C6H12O6"
+    ],
+    "answer": 0,
+    "explanation": "La fórmula química del agua es H2O, que representa dos átomos de hidrógeno y un átomo de oxígeno."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Quién descubrió la penicilina?",
+    "options": [
+      "Marie Curie",
+      "Alexander Fleming",
+      "Albert Einstein",
+      "Thomas Edison"
+    ],
+    "answer": 1,
+    "explanation": "La penicilina fue descubierta por Alexander Fleming en 1928."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Cuál es el planeta más grande del sistema solar?",
+    "options": [
+      "Tierra",
+      "Júpiter",
+      "Saturno",
+      "Urano"
+    ],
+    "answer": 1,
+    "explanation": "Júpiter es el planeta más grande del sistema solar."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Cuál es la unidad básica de la vida?",
+    "options": [
+      "Célula",
+      "Molécula",
+      "Átomo",
+      "Neutrón"
+    ],
+    "answer": 0,
+    "explanation": "La célula es considerada la unidad básica de la vida."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Qué científico desarrolló la teoría de la relatividad?",
+    "options": [
+      "Isaac Newton",
+      "Nikola Tesla",
+      "Albert Einstein",
+      "Galileo Galilei"
+    ],
+    "answer": 2,
+    "explanation": "Albert Einstein desarrolló la teoría de la relatividad."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+    "options": [
+      "Oxígeno",
+      "Hierro",
+      "Silicio",
+      "Aluminio"
+    ],
+    "answer": 0,
+    "explanation": "El elemento más abundante en la corteza terrestre es el oxígeno."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+    "options": [
+      "Cerebro",
+      "Pulmón",
+      "Hígado",
+      "Estómago"
+    ],
+    "answer": 2,
+    "explanation": "El hígado es el órgano más grande del cuerpo humano."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Cuál es la teoría que explica el origen del universo?",
+    "options": [
+      "Teoría de la Evolución",
+      "Teoría del Big Bang",
+      "Teoría de la Relatividad",
+      "Teoría de la Gravedad"
+    ],
+    "answer": 1,
+    "explanation": "La teoría del Big Bang es la que explica el origen del universo."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Quién propuso la teoría de la evolución por selección natural?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Isaac Newton"
+    ],
+    "answer": 0,
+    "explanation": "Charles Darwin propuso la teoría de la evolución por selección natural."
+  },
+  {
+    "category": "Ciencia",
+    "question": "¿Cuál es el metal más ligero?",
+    "options": [
+      "Aluminio",
+      "Plomo",
+      "Oro",
+      "Cobre"
+    ],
+    "answer": 0,
+    "explanation": "El aluminio es el metal más ligero."
+  }
 ]
