@@ -1,7 +1,12 @@
 {
         "category": "Deportes",
-        "question": "¿Cuál país ganó la Copa Mundial de Fútbol de 2014?",
-        "options": ["Brasil", "Alemania", "España"],
-        "answer": 1,
-        "explanation": "Alemania ganó la Copa Mundial de Fútbol de 2014 al derrotar a Argentina en la final."
+        "question": "¿Cuál es el deporte más popular en Estados Unidos?",
+        "options": [
+          "Fútbol americano",
+          "Béisbol",
+          "Baloncesto",
+          "Hockey sobre hielo"
+        ],
+        "answer": 0,
+        "explanation": "El deporte más popular en Estados Unidos es el fútbol americano."
 }
