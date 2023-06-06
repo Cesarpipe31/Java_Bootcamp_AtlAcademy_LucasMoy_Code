@@ -1,5 +1,6 @@
-Genera 5 preguntas de una temática aleatoria, en formato json donde se respete la siguiente estructura, sin comentarios solo el json
+Genera 7 preguntas sobre deportes, es decir, preguntas relacionadas con diversos deportes y eventos deportivos, en formato json donde se utilice la siguiente estructura, sin comentarios solo el json
 {
+    "category": "",
     "question": "",
     "options": [],
     "answer": "",
