@@ -9,6 +9,7 @@ public class Main {
         Scanner leer = new Scanner(System.in);
         int numero = (int) (Math.random() * 9 + 1);
         int numeroRegistrado = 0;
+
         do {
             System.out.println("Registre un número entero entre 1 a 10: ");
             numeroRegistrado = leer.nextInt();
@@ -16,5 +17,10 @@ public class Main {
                 System.out.println("Adivinaste!!!.  El número " + numero + " es igual al número que has registrado: " + numeroRegistrado);
             }
         }while(numero != numeroRegistrado);
+
+        for (int i = 0; i < 100; i++) {
+            double numero1 = (Math.random());
+            System.out.println(numero1);
+        }
     }
 }
