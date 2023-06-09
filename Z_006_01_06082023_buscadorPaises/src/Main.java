@@ -12,7 +12,7 @@ Entonces, cuando hagas click en el link que aparece en consola, te abrirá esa u
 public class Main {
     public static void main(String[] args) throws Exception {
         Scanner leer = new Scanner(System.in).useDelimiter("\n");
-        System.out.println("Escribe el país a buscar: ");
+        System.out.println("Escribe el nombre del país a buscar en Google Maps: ");
         String pais = leer.nextLine();
         Desktop d = Desktop.getDesktop();
         d.browse(new URI("https://www.google.com/maps/search/" + pais));
