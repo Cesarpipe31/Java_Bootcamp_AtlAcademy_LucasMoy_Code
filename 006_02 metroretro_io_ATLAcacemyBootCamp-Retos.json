@@ -1,0 +1,572 @@
+{
+    "Actions": [
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "GOAL\nJAVA DEVELOPER\ncompletar BootCamp\nEstudiar\nPracticar\nTrabajar en grupo",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T21:06:17.392Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "Wind\nAprender JAVA\nAprender Ingles\n",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T21:10:42.452Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "Ancla\nPedir ayuda\nPaciencia con uno mismo\nPerseverancia",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T21:31:07.313Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "Rock\nOrganizarse\nPensar siempre en la meta\nMotivacion\nPedir ayuda\nComunicacion",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T21:39:55.537Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "Boat\nPaciencia \nTrabajo en equipo\nCapacidad para Resolucion de Problemas\nValentia\nEquipo libre de egos",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T21:49:17.244Z",
+            "comments": []
+        }
+    ],
+    "Goal": [
+        {
+            "author": {
+                "name": "Absalon Chambilla Condori",
+                "email": "absa.250@gmail.com"
+            },
+            "content": "Aprender un nuevo lenguaje de programación.",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:57:30.503Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "Lograr la certificacion de ATLACademy\nJQ",
+            "group": null,
+            "votes": 4,
+            "date": "2023-06-08T20:43:53.032Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "El Equipo #4 logre ganar la competencia\nJQ ",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T20:44:40.748Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "Completar el curso y tomar experiencia trabajando en equipo",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T20:55:05.734Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "René Ordoñez Peralta",
+                "email": "photocromatic@gmail.com"
+            },
+            "content": "ROP\nPosicionarnos en una oferta laboral, según los conocimientos adquiridos en el bootcamp",
+            "group": null,
+            "votes": 3,
+            "date": "2023-06-08T20:49:41.136Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Rocha Nahuel",
+                "email": "rocha.nahuel@hotmail.com"
+            },
+            "content": "#GOAL\n\nConvertirnos en Java Developers",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:46:54.364Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Ygaviria",
+                "email": "ygaviria7@gmail.com"
+            },
+            "content": "Crecer en nuestras habilidades tanto técnicas como blandas",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:59:47.195Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "giuliana yarleque chamoli",
+                "email": "giuliana.yarlequech@gmail.com"
+            },
+            "content": "ROP\nPoicionarnos en una oferta laboral, según los conocimientos adquiridos en el bootcamp",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-09T00:18:56.537Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "giuliana yarleque chamoli",
+                "email": "giuliana.yarlequech@gmail.com"
+            },
+            "content": "LOGRAR TERMINAR EL BOOTCAMP  JUNTO CON EL EQUIPO Y CONVERTIRNOS EN BUENOS PROGRAMADORES\n",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-09T00:27:59.501Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "matias nicolas acevedo",
+                "email": "matias.nicolas.acevedo@gmail.com"
+            },
+            "content": "Convertirse en Java Developer\n",
+            "group": null,
+            "votes": 34,
+            "date": "2023-06-08T20:52:08.986Z",
+            "comments": []
+        }
+    ],
+    "Wind": [
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "Entusiasmo del equipo\nJQ",
+            "group": null,
+            "votes": 9,
+            "date": "2023-06-08T20:51:04.924Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "Colaboración del equipo y comunicación continua \nJQ",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:51:14.801Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "Ganas de aprender",
+            "group": null,
+            "votes": 6,
+            "date": "2023-06-08T20:49:48.651Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Lorena",
+                "email": "topland7578@gmail.com"
+            },
+            "content": "La buena retroalimentacion",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T20:53:02.101Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Lorena",
+                "email": "topland7578@gmail.com"
+            },
+            "content": "que este lenguaje tiene mucha trayectoria asi que es poco probable que caiga en desuso",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T20:55:51.632Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "René Ordoñez Peralta",
+                "email": "photocromatic@gmail.com"
+            },
+            "content": "ROP\nLas necesidades, propósitos y convicciones grupales e individuales.",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T20:54:20.914Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Rocha Nahuel",
+                "email": "rocha.nahuel@hotmail.com"
+            },
+            "content": "#WIND\n\nLa unión , motivación y compañerismo",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T20:51:49.735Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "giuliana yarleque chamoli",
+                "email": "giuliana.yarlequech@gmail.com"
+            },
+            "content": "ME IMPULSA ES SABER QUE APRENDERE UN LENGUAJE DE PROGRAMACIÓN DE ALTA DEMANDA.",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-09T00:30:17.765Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "matias nicolas acevedo",
+                "email": "matias.nicolas.acevedo@gmail.com"
+            },
+            "content": "Ganar el dolares $$$\n",
+            "group": null,
+            "votes": 21,
+            "date": "2023-06-08T20:54:22.793Z",
+            "comments": []
+        }
+    ],
+    "Rocks": [
+        {
+            "author": {
+                "name": "Absalon Chambilla Condori",
+                "email": "absa.250@gmail.com"
+            },
+            "content": "Las deserciones.",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:54:38.635Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "Tiempo para realizar las practicas\nJQ",
+            "group": null,
+            "votes": 5,
+            "date": "2023-06-08T20:48:53.345Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "Complejidad de las practicas\nJQ",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:49:23.934Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "Reuniones laborales inesperadas\nJQ",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:54:26.081Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "Nada\n",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:54:01.382Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Lorena",
+                "email": "topland7578@gmail.com"
+            },
+            "content": "los deseos de abandonar",
+            "group": null,
+            "votes": 5,
+            "date": "2023-06-08T20:54:27.254Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "René Ordoñez Peralta",
+                "email": "photocromatic@gmail.com"
+            },
+            "content": "ROP\nQue en el ámbito de liquedez o salud haya algún impedimento inesperado",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:51:06.372Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Rocha Nahuel",
+                "email": "rocha.nahuel@hotmail.com"
+            },
+            "content": "#Rocks\nBajar los brazos.\n",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:55:22.877Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Ygaviria",
+                "email": "ygaviria7@gmail.com"
+            },
+            "content": "La desmotivación",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T21:02:03.429Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "giuliana yarleque chamoli",
+                "email": "giuliana.yarlequech@gmail.com"
+            },
+            "content": "EL QUE ME SAQUEN POR NO COINCIDIR CON LOS TRABAJOS GRUPALES EN LINEA.",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-09T00:33:24.784Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "matias nicolas acevedo",
+                "email": "matias.nicolas.acevedo@gmail.com"
+            },
+            "content": "El tiempo, los conocimientos\n",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:53:41.708Z",
+            "comments": []
+        }
+    ],
+    "Anchor": [
+        {
+            "author": {
+                "name": "Absalon Chambilla Condori",
+                "email": "absa.250@gmail.com"
+            },
+            "content": "Buena actidud",
+            "group": null,
+            "votes": 3,
+            "date": "2023-06-08T21:00:26.110Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "El trabajo en equipo\nJQ",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:50:01.819Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "Las ansias de ganar la competencia\nJQ",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:52:44.835Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Jesus Quezada",
+                "email": "jesusnin@gmail.com"
+            },
+            "content": "Las responsabilidades familiares\nJQ",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:55:55.872Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "Practicar Poco",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:52:44.934Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Karina",
+                "email": "karinagirones@gmail.com"
+            },
+            "content": "paciencia",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:57:26.033Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Lorena",
+                "email": "topland7578@gmail.com"
+            },
+            "content": "el desanimo y la frustracion",
+            "group": null,
+            "votes": 1,
+            "date": "2023-06-08T20:53:55.507Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Lorena",
+                "email": "topland7578@gmail.com"
+            },
+            "content": "la constancia",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:55:23.812Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "René Ordoñez Peralta",
+                "email": "photocromatic@gmail.com"
+            },
+            "content": "ROP\nLa carencia de conocimientos en algún tema y el tiempo disponible.",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:52:07.493Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "René Ordoñez Peralta",
+                "email": "photocromatic@gmail.com"
+            },
+            "content": "ROP\nTrabajo en equiipo e individual",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T20:56:41.836Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Rocha Nahuel",
+                "email": "rocha.nahuel@hotmail.com"
+            },
+            "content": "#Anchor\nLa desmotivación y falta de perseverancia.",
+            "group": null,
+            "votes": 4,
+            "date": "2023-06-08T20:53:31.353Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Rocha Nahuel",
+                "email": "rocha.nahuel@hotmail.com"
+            },
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T22:01:02.990Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Ygaviria",
+                "email": "ygaviria7@gmail.com"
+            },
+            "content": "Las responsabilidades externas, laborales, familiares",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-08T21:07:34.062Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "giuliana yarleque chamoli",
+                "email": "giuliana.yarlequech@gmail.com"
+            },
+            "content": "A VECES NO PODER COINCIDIR TRABAJAR CON EL EQUIPO EN LINEA 😥",
+            "group": null,
+            "votes": 0,
+            "date": "2023-06-09T00:32:18.025Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "matias nicolas acevedo",
+                "email": "matias.nicolas.acevedo@gmail.com"
+            },
+            "content": "el propio ritmo del bootcamp",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:54:43.335Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "matias nicolas acevedo",
+                "email": "matias.nicolas.acevedo@gmail.com"
+            },
+            "content": "cuando todo sale bien :D\n",
+            "group": null,
+            "votes": 2,
+            "date": "2023-06-08T20:55:50.165Z",
+            "comments": []
+        }
+    ]
+}
