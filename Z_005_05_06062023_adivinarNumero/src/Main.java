@@ -6,8 +6,9 @@ Genera un número aleatorio entre 1 y 100. Pídele al usuario que adivine el nú
  */
 public class Main {
     public static void main(String[] args) {
+        
         Scanner leer = new Scanner(System.in);
-        int numero = (int) (Math.random() * 9 + 1);
+        int numero = (int) (Math.random() * 9 ) + 1;
         int numeroRegistrado = 0;
 
         do {
@@ -18,8 +19,10 @@ public class Main {
             }
         }while(numero != numeroRegistrado);
 
-        for (int i = 0; i < 100; i++) {
-            double numero1 = (Math.random());
+
+
+        for (int i = 0; i < 10; i++) {
+            int numero1 = (int)(Math.random()*9)+1;
             System.out.println(numero1);
         }
     }
